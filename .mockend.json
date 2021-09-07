@@ -1,6 +1,6 @@
 {
   "Post": {
-    "title": { "string": {"regexp": "[A-Z][a-z]{5,10}"} },
+    "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
     }
